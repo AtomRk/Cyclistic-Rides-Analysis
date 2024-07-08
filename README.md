@@ -406,6 +406,7 @@ We will use the Tableau for data visualization to answer key questions.
 
 **Tableau Data Visualization:**
 
+<img src="https://github.com/AtomRk/Cyclistic-Rides-Analysis/assets/165159709/62858bca-3368-4927-a0d4-0b6c0727cf47" width="300" height="300">
 
 ### Results/ Findings
 
