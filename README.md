@@ -408,20 +408,9 @@ We will use the Tableau for data visualization to answer key questions.
 
 Tableau is a powerful tool for data visualization. Initially, we need to import data from a CSV file. In our case, it is the final data exported from MySQL in CSV format. Then, using Tableau, we have created an interactive dashboard that will help us find the answers to our key questions.
 
-#### Steps to create Dashboard:
+#### Tableau Dashboard:
 
-1. **Importing Data in Tableau:**
-
-   Data can be imported into Tableau using the data source.
-
-    - Click on Data Source.
-    - Click on Text File.
-    - Locate and Load File.
-      
-  
-   <img src="https://github.com/AtomRk/Cyclistic-Rides-Analysis/assets/165159709/62858bca-3368-4927-a0d4-0b6c0727cf47" width="300" height="300">
-
-2. **Data Manipulation:**
+1. **Data Manipulation:**
 
    When we import data into Tableau, our data will look like the screenshot below:
 
@@ -454,15 +443,22 @@ Tableau is a powerful tool for data visualization. Initially, we need to import 
 
    We have successfully added two new columns, and we now have all the data to create an interactive dashboard.
 
-3. **Tableau Dashboard:**
+3. Titles, Headings and Formatting:
+
+4. Charts:
+
+5. Filters:
+
+6. Key Findings:
 
    Below is the screenshot of the dashboard:
 
    ![image](https://github.com/AtomRk/Cyclistic-Rides-Analysis/assets/165159709/2a59bacf-99c3-4dfc-8838-804dfd495157)
 
 
-### Results/ Findings
+### Key Point
 
+### Conclusion
 
 ### Recommendations
    
