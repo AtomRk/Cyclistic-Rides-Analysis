@@ -443,22 +443,69 @@ Tableau is a powerful tool for data visualization. Initially, we need to import 
 
    We have successfully added two new columns, and we now have all the data to create an interactive dashboard.
 
-3. Titles, Headings and Formatting:
+  3. Titles and Headings Formatting:
 
-4. Charts:
+     - **Title Formatting:**
 
-5. Filters:
+      - Use a bold and slightly larger font size for titles to make them stand out.
+      - Choose a clear and readable font type such as Arial, Helvetica, or Times New Roman.
+      - Align titles to the center or left-align them for consistency.
+   
+     - **Header Formatting:**
 
-6. Key Findings:
+      - Use a smaller font size than titles but larger than regular text for headers.
+      - Headers can be in bold or regular weight, depending on the hierarchy of information.
+      - Consider using a different color or shading to distinguish headers from the main text.
+      - Align headers consistently, typically left-aligned or centered within their section.
+        
+     - **Font Type and Color:**
 
-   Below is the screenshot of the dashboard:
+      - Stick to standard fonts that are easy to read on different devices.
+      - Avoid using too many different font types in one document to maintain a professional appearance.
+      - Use color sparingly for emphasis or to denote different sections, ensuring readability and accessibility.
+        
+     - **Alignment:**
+
+      - Align titles and headers consistently throughout the document.
+      - Left-align or center-align titles and headers for a neat and organized appearance.
+      - Ensure alignment complements the overall layout and design of the document.
+
+  5. Charts:
+
+     In this dashboard, I have used 5 different charts to represent data.
+
+     - Pie Chart
+     - Line Chart
+     - Bar Chart
+     - Square Chart
+     - Circle Chart
+
+  7. Filters:
+
+     Filters are used to make the dashboard interactive. I have used 2 filters in this dashboard.
+
+     - Weekdays
+     - Month
+
+  9. Key Findings:
+
+     Highlights of the data is present at the top of dashboard. Some of the highlights will change as per the filters applied. I have included 7 key findings in the dashboard.
+
+     - Total Ride Count
+     - Max Ride Count
+     - Average Ride Length
+     - Busiest Day
+     - Busiest Month
+     - Top Choice Bike
+
+**Dashboard**
+Below is the screenshot of the dashboard:
 
    ![image](https://github.com/AtomRk/Cyclistic-Rides-Analysis/assets/165159709/2a59bacf-99c3-4dfc-8838-804dfd495157)
 
 
-### Key Point
+### Key Points
 
 ### Conclusion
 
-### Recommendations
    
