@@ -507,20 +507,20 @@ Below is the screenshot of the dashboard:
 
 ### Key Points
 
-- There were total 5M+ rides taken by the bike riders in the last 12 months with the Cyclistic company.
-- Member riders share 64.21% which is 3M+ rides out of total rides.
-- Casual riders share 35.79% which is 2M+ rides out of total rides.
-- Member riders have max ride count of 44,924 in a day using classic bike while casual riders have 37,353 max ride count in a day using classic bike.
-- Average ride length for member riders is 13 minutes while casual riders have 41 minutes of average ride length.
-- The busiest day for member riders is Thrusday where they have the ride count of 5 Lakhs+ rides and for casual riders the busiest day is Saturday with 4 Lakhs+ rides.
-- The busiest month for member riders is August with total ride count of 4 Lakhs+ rides and for casual riders busiest month is July with total ride count of 3 Lakhs+ rides.
-- The most favourable bike for members is classic bike with 1M+ rides and casuals favourable bike is electric bike with 1M+ rides.
+- There were more than 5 million rides taken by bike riders in the last 12 months with Cyclistic.
+- Member riders account for 64.21% of the total rides, which is over 3 million rides.
+- Casual riders account for 35.79% of the total rides, which is over 2 million rides.
+- Member riders have a maximum ride count of 44,924 in a day using classic bikes, while casual riders have a maximum ride count of 37,353 in a day using classic bikes.
+- The average ride length for member riders is 13 minutes, while casual riders have an average ride length of 41 minutes.
+- The busiest day for member riders is Thursday, with over 500,000 rides, while for casual riders, it is Saturday, with over 400,000 rides.
+- The busiest month for member riders is August, with a total ride count of over 400,000 rides. For casual riders, the busiest month is July, with a total ride count of over 300,000 rides.
+- The most favored bike for members is the classic bike, with over 1 million rides, while the most favored bike for casual riders is the electric bike, also with over 1 million rides.
 
 ### Conclusion
 
-- Both member and casual riders love to enjoy rides mostly during summer season.
-- Member riders prefer bike rides on weekdays (Monday-Friday).
-- Casual riders prefer bike rides on weekends (Saturday-Sunday).
-- Casual riders takes long rides as compared to member riders.
-- Casual riders rides all types of bikes but their first choice is electric bikes.
-- Member riders rides only classic and electric bikes and their first choice is classic bike.
+- Both member and casual riders enjoy taking rides most during the summer season.
+- Member riders prefer bike rides on weekdays (Monday through Friday).
+- Casual riders prefer bike rides on weekends (Saturday and Sunday).
+- Casual riders take longer rides compared to member riders.
+- Casual riders use all types of bikes, but their first choice is electric bikes.
+- Member riders use only classic and electric bikes, with their first choice being the classic bike.
