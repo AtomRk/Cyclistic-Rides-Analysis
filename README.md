@@ -445,26 +445,26 @@ Tableau is a powerful tool for data visualization. Initially, we need to import 
 
   3. Titles and Headings Formatting:
 
-     - **Title Formatting:**
+     **Title Formatting:**
 
       - Use a bold and slightly larger font size for titles to make them stand out.
       - Choose a clear and readable font type such as Arial, Helvetica, or Times New Roman.
       - Align titles to the center or left-align them for consistency.
    
-     - **Header Formatting:**
+     **Header Formatting:**
 
       - Use a smaller font size than titles but larger than regular text for headers.
       - Headers can be in bold or regular weight, depending on the hierarchy of information.
       - Consider using a different color or shading to distinguish headers from the main text.
       - Align headers consistently, typically left-aligned or centered within their section.
         
-     - **Font Type and Color:**
+      **Font Type and Color:**
 
       - Stick to standard fonts that are easy to read on different devices.
       - Avoid using too many different font types in one document to maintain a professional appearance.
       - Use color sparingly for emphasis or to denote different sections, ensuring readability and accessibility.
         
-     - **Alignment:**
+      **Alignment:**
 
       - Align titles and headers consistently throughout the document.
       - Left-align or center-align titles and headers for a neat and organized appearance.
@@ -489,7 +489,7 @@ Tableau is a powerful tool for data visualization. Initially, we need to import 
 
   9. Key Findings:
 
-     Highlights of the data is present at the top of dashboard. Some of the highlights will change as per the filters applied. I have included 7 key findings in the dashboard.
+     Highlights of the data is present at the top of dashboard. Some of the highlights will change as per the filters applied. I have included 7 key findings in this dashboard.
 
      - Total Ride Count
      - Max Ride Count
@@ -499,13 +499,28 @@ Tableau is a powerful tool for data visualization. Initially, we need to import 
      - Top Choice Bike
 
 **Dashboard**
+
 Below is the screenshot of the dashboard:
 
-   ![image](https://github.com/AtomRk/Cyclistic-Rides-Analysis/assets/165159709/2a59bacf-99c3-4dfc-8838-804dfd495157)
+![Cyclistic Dashboard](https://github.com/user-attachments/assets/3f018e20-f8e0-4421-842a-7694de1cfd74)
 
 
 ### Key Points
 
+- There were total 5M+ rides taken by the bike riders in the last 12 months with the Cyclistic company.
+- Member riders share 64.21% which is 3M+ rides out of total rides.
+- Casual riders share 35.79% which is 2M+ rides out of total rides.
+- Member riders have max ride count of 44,924 in a day using classic bike while casual riders have 37,353 max ride count in a day using classic bike.
+- Average ride length for member riders is 13 minutes while casual riders have 41 minutes of average ride length.
+- The busiest day for member riders is Thrusday where they have the ride count of 5 Lakhs+ rides and for casual riders the busiest day is Saturday with 4 Lakhs+ rides.
+- The busiest month for member riders is August with total ride count of 4 Lakhs+ rides and for casual riders busiest month is July with total ride count of 3 Lakhs+ rides.
+- The most favourable bike for members is classic bike with 1M+ rides and casuals favourable bike is electric bike with 1M+ rides.
+
 ### Conclusion
 
-   
+- Both member and casual riders love to enjoy rides mostly during summer season.
+- Member riders prefer bike rides on weekdays (Monday-Friday).
+- Casual riders prefer bike rides on weekends (Saturday-Sunday).
+- Casual riders takes long rides as compared to member riders.
+- Casual riders rides all types of bikes but their first choice is electric bikes.
+- Member riders rides only classic and electric bikes and their first choice is classic bike.
